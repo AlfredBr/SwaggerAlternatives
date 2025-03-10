@@ -1,6 +1,6 @@
 # SwaggerAlternatives
 
-A collection of projects for users explore alternatives to Swagger API documentation.
+A collection of projects for users to explore alternatives to Swagger API documentation.
 
 ![SwaggerAlternatives](./folders.png)
 
